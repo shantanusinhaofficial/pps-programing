@@ -15,6 +15,7 @@ int main()
       x = 1;
       break;
     }
+    }
   
 
   if (x == 0)
